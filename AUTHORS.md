@@ -1,3 +1,5 @@
-#Autors:
+# This file lists all individuals having contributed content to the repository.
 
-carlos Alvarez <930@holbertonschool.com>
+
+Carlos Alvarez <enfocatemas@gmail.com>
+
